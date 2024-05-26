@@ -9,92 +9,77 @@ initScrollReveal();
 typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
-  ".digitalhouse",
-  `Trabalhei como instrutor conteudista em frontend na
-  Digital House, o trabalho consistia em criar conteúdos para as
-  aulas de especialização frontend. Alguns temas dos conteúdos
-  realizados foram: React, Redux, TypeScript, Testes,
-  GraphQL, Next.js, MUI, React Hook Form e styled-components.`,
-  "Professor conteudista em Frontend",
-  "Digital House",
-  "Nov 2021 - Nov 2022 (1 ano)"
+  ".osvauld",
+  `Contributed to UX discussions, delivered dashboard using
+  Svelte and Tailwindcss. Ideation (Figma) and implementation of product landing page
+  (Astro-React). Optimised website for faster load times, Integrated Analytics
+  and performed SEO for visibility. `,
+  "Front-End Developer",
+  "Osvauld",
+  "08/2023 – present | Remote, India"
 );
 
 hoverChangeExperience(
-  ".zuplae",
-  `Trabalhei como Social Media e Designer na Zuplae que é um escola
-  de programação, onde teve como foco as criações de conteúdos sobre
-  programação para a comunidade dev através das redes sociais.`,
-  "Social Media e UI Designer",
-  "Zuplae",
-  "Jan 2022 - Abril 2022 (4 meses)"
+  ".vualapp",
+  `Worked on Vualapp internal dashboard (React) for process
+  monitoring. Added much sought after visibility features for serverless
+  functions to the dashboard.Created key resource monitoring and pricing alerts feature
+  into the dashboard which helped engineering team to cut
+  costs down by 30%.`,
+  "Junior Front-End Developer",
+  "Vualapp",
+  "04/2022 – 07/2023 | Bengaluru, India"
 );
 
 hoverChangeExperience(
-  ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  ".sibca",
+  `Worked as Extra low voltage systems service engineer in
+  multi-story built environments. Handled all maintenance aspects Simplex fire alarm systems
+  and Emergency lighting controls. Executed resource allocation, prepared documentation and
+  Incident reports.`,
+  "Associate service Engineer",
+  "SIBCA",
+  "05/2019 – 06/2021 | Dubai, UAE"
 );
-
-hoverChangeExperience(
-  ".contweb",
-  `Realizei o estágio na ContWeb, uma empresa de contabilidade. 
-  Onde pela primeira vez tive experiência com o React. Além do
-  desenvolvimento frontend criei os designs da nova plataforma da empresa.`,
-  "Developer frontend e UI Designer",
-  "ContWeb",
-  "Set 2021 - Nov 2021 (3 meses)"
-);
-
 hoverChangeDescription(
   ".html",
-  "HTML é uma linguagem de marcação, onde marcamos os elementos para definir quais informações a página vai exibir."
+  "HTML is a markup language, where we mark elements to define what information the page will display."
 );
 hoverChangeDescription(
   ".css",
-  "CSS é uma linguagem de folha de estilo composta por “camadas”, criado com o propósito de estilizar as páginas."
+  "CSS is a stylesheet language composed of 'layers', created with the purpose of styling pages."
 );
 hoverChangeDescription(
   ".js",
-  "JavaScript é uma linguagem de programação que permite a você implementar elementos dinâmicos em páginas web."
+  "JavaScript is a programming language that allows you to implement dynamic elements on web pages."
 );
-hoverChangeDescription(
-  ".sass",
-  "Sass é um pré-processador CSS que adiciona alguns recursos que não estão disponíveis de forma nativa."
-);
+hoverChangeDescription(".sass", "Astro helps to build fast static site");
 hoverChangeDescription(
   ".react",
-  "React é uma biblioteca JavaScript com foco em criar interfaces de usuário de forma componetizada."
+  "React is a JavaScript library focused on creating component-based user interfaces."
 );
 hoverChangeDescription(
   ".next",
-  "Next.js é uma estrutura da web que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para web baseados em React."
+  "State management made perfect with the wide adoption of Redux"
 );
 hoverChangeDescription(
   ".styled",
-  "styled-components é uma biblioteca que utiliza o conceito de CSS-in-JS, ou seja, que nos permite escrever códigos CSS dentro do Javascript."
+  "styled-components is a library that uses the concept of CSS-in-JS, allowing us to write CSS code within JavaScript."
 );
 hoverChangeDescription(
   ".tailwind",
-  "Tailwind CSS é um framework CSS que nos fornece classes utilitárias com o propósito de estilizar as páginas."
+  "Tailwind CSS is a CSS framework that provides utility classes for styling pages."
 );
 hoverChangeDescription(
   ".typescript",
-  "TypeScript é um superset do JavaScript que incluir recursos que não estão presentes na linguagem de forma nativa, além de torná-la estática."
+  "TypeScript is a superset of JavaScript that includes features not present in the language natively, as well as making it static."
 );
-hoverChangeDescription(
-  ".radix",
-  "Radix é uma biblioteca que fornece componentes acessíveis e sem estilos para a criação de aplicação em React."
-);
+hoverChangeDescription(".radix", "Open-source Version control software");
 hoverChangeDescription(
   ".cypress",
-  "Cypress é um framework para automação de testes end-to-end, onde atualmente usa a linguagem JavaScript."
+  "Cypress is a framework for end-to-end testing automation, currently using the JavaScript language."
 );
 hoverChangeDescription(
   ".storybook",
-  "Storybook é uma ferramenta que tem como objetivo documentar e testar os componentes da aplicação."
+  "Svelte surgically changes DOM with compiler op resulting in tiny UI shippment"
 );
