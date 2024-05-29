@@ -1,7 +1,7 @@
 particlesJS("particles-js", {
   particles: {
     number: {
-      value: 600,
+      value: 200,
       density: {
         enable: true,
         value_area: 3025.8939580764488,
@@ -14,10 +14,10 @@ particlesJS("particles-js", {
       type: "circle",
       stroke: {
         width: 0,
-        color: "#000000",
+        color: "#986dff",
       },
       polygon: {
-        nb_sides: 5,
+        nb_sides: 6,
       },
       image: {
         src: "img/github.svg",
@@ -48,7 +48,7 @@ particlesJS("particles-js", {
     line_linked: {
       enable: true,
       distance: 100,
-      color: "#ffffff",
+      color: "#986dff",
       opacity: 0.4,
       width: 1,
     },
