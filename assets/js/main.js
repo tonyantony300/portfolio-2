@@ -31,16 +31,16 @@ hoverChangeExperience(
   "04/2022 – 07/2023 | Bengaluru, India"
 );
 
-hoverChangeExperience(
-  ".sibca",
-  `Worked as Extra low voltage systems service engineer in
-  multi-story built environments. Handled all maintenance aspects Simplex fire alarm systems
-  and Emergency lighting controls. Executed resource allocation, prepared documentation and
-  Incident reports.`,
-  "Associate service Engineer",
-  "SIBCA",
-  "05/2019 – 06/2021 | Dubai, UAE"
-);
+// hoverChangeExperience(
+//   ".sibca",
+//   `Worked as Extra low voltage systems service engineer in
+//   multi-story built environments. Handled all maintenance aspects Simplex fire alarm systems
+//   and Emergency lighting controls. Executed resource allocation, prepared documentation and
+//   Incident reports.`,
+//   "Associate service Engineer",
+//   "SIBCA",
+//   "05/2019 – 06/2021 | Dubai, UAE"
+// );
 hoverChangeDescription(
   ".html",
   "HTML is a markup language, where we mark elements to define what information the page will display."
@@ -64,7 +64,7 @@ hoverChangeDescription(
 );
 hoverChangeDescription(
   ".styled",
-  "styled-components is a library that uses the concept of CSS-in-JS, allowing us to write CSS code within JavaScript."
+  "AWS provides on-demand cloud computing which is incredibly convenient"
 );
 hoverChangeDescription(
   ".tailwind",
