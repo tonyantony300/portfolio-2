@@ -6,7 +6,7 @@ Sure, here is the translation with similar formatting:
 
 ![Final project result](assets/image/preview.png)
 
-<h4 align="center"><a href="https://www.iuricode.com/">Click to visit the project</a></h4>
+
 
 ## 📚 Sections
 

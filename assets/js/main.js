@@ -20,14 +20,14 @@ hoverChangeExperience(
 );
 
 hoverChangeExperience(
-  ".vualapp",
-  `Worked on Vualapp internal dashboard (React) for process
-  monitoring. Added much sought after visibility features for serverless
-  functions to the dashboard.Created key resource monitoring and pricing alerts feature
-  into the dashboard which helped engineering team to cut
-  costs down by 30%.`,
-  "Junior Front-End Developer",
-  "Vualapp",
+  ".freelance",
+  `Worked on internal dashboard (React) for process
+  monitoring and Invoice automation using chrome-extension
+  for a client based In Spain.
+  Worked with businesses for creating pixel perfect landing
+  pages.`,
+  "Web Developer",
+  "Freelance",
   "04/2022 – 07/2023 | Bengaluru, India"
 );
 
