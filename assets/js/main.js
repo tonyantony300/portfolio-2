@@ -10,37 +10,29 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".osvauld",
-  `Contributed to UX discussions, delivered dashboard using
-  Svelte and Tailwindcss. Ideation (Figma) and implementation of product landing page
-  (Astro-React). Optimised website for faster load times, Integrated Analytics
-  and performed SEO for visibility. `,
-  "Front-End Developer",
+  `Member of the founding engineering team, Created a performant landing website & web-application of Osvauld, The site has 12K monthly
+visitors, loads under 1 second. `,
+  "Front-End Engineer",
   "Osvauld",
   "08/2023 – present | Remote, India"
 );
 
 hoverChangeExperience(
   ".freelance",
-  `Worked on internal dashboard (React) for process
-  monitoring and Invoice automation using chrome-extension
-  for a client based In Spain.
-  Worked with businesses for creating pixel perfect landing
-  pages.`,
-  "Web Developer",
-  "Freelance",
-  "04/2022 – 07/2023 | Bengaluru, India"
+  `Developed responsive and interactive UI components using React and Tailwind CSS, enhancing user
+experience across various screen sizes and devices.`,
+  "Junior Software Developer",
+  "Caprolok Technologies",
+  "08/2022 – 04/2023 | Bengaluru, India"
 );
 
-// hoverChangeExperience(
-//   ".sibca",
-//   `Worked as Extra low voltage systems service engineer in
-//   multi-story built environments. Handled all maintenance aspects Simplex fire alarm systems
-//   and Emergency lighting controls. Executed resource allocation, prepared documentation and
-//   Incident reports.`,
-//   "Associate service Engineer",
-//   "SIBCA",
-//   "05/2019 – 06/2021 | Dubai, UAE"
-// );
+hoverChangeExperience(
+  ".sibca",
+  `Programmed various life safety systems in 14+ ultra-highrise buildings.`,
+  "Associate service Engineer",
+  "SIBCA",
+  "05/2019 – 06/2021 | Dubai, UAE"
+);
 hoverChangeDescription(
   ".html",
   "HTML is a markup language, where we mark elements to define what information the page will display."
